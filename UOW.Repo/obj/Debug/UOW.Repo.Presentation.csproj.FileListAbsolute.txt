@@ -1,0 +1,6 @@
+C:\Users\PC-55\source\repos\UOW.Repo\UOW.Repo\bin\Debug\UOW.Repo.exe.config
+C:\Users\PC-55\source\repos\UOW.Repo\UOW.Repo\bin\Debug\UOW.Repo.exe
+C:\Users\PC-55\source\repos\UOW.Repo\UOW.Repo\bin\Debug\UOW.Repo.pdb
+C:\Users\PC-55\source\repos\UOW.Repo\UOW.Repo\obj\Debug\UOW.Repo.Presentation.csprojAssemblyReference.cache
+C:\Users\PC-55\source\repos\UOW.Repo\UOW.Repo\obj\Debug\UOW.Repo.exe
+C:\Users\PC-55\source\repos\UOW.Repo\UOW.Repo\obj\Debug\UOW.Repo.pdb
