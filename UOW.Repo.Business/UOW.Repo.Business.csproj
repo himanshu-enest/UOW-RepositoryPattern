@@ -46,12 +46,14 @@
     <Compile Include="Interface\IOrderItemAppService.cs" />
     <Compile Include="Interface\IProductAppService.cs" />
     <Compile Include="Interface\ISupplierAppService.cs" />
+    <Compile Include="Interface\ITestAppService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\CustomerAppService.cs" />
     <Compile Include="Service\OrderAppService.cs" />
     <Compile Include="Service\OrderItemAppService.cs" />
     <Compile Include="Service\ProductAppService.cs" />
     <Compile Include="Service\SupplierAppService.cs" />
+    <Compile Include="Service\TestAppService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UOW.Repo.Repository\UOW.Repo.Repository.csproj">
